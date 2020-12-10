@@ -4,8 +4,8 @@
 This is a basic python script for an Auto Clicker
 
 ## Setup
-1.```pip install pyautogui```
-1.```pip install time```
+- ```pip install pyautogui```
+- ```pip install time```
 
 ## Useage
 Do no use this in pvp 
